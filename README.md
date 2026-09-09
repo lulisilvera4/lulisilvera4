@@ -2,8 +2,23 @@
   Hi 👋, I'm Lourdes 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4a7z/giphy.gif" width="35">
 </h1>
-<img align="right" width="300px" alt="Butterflies"
-src="https://media.tenor.com/XXXXXXXXXXXXAAAAC/butterflies-flying.gif" /
+<div align="center">
+  🦋 💗 🦋 💗 🦋
+  <br><br>
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQ5h6K6W3e/giphy.gif" width="180">
+  <br><br>
+  🦋 💗 🦋 💗 🦋
+</div>
+<div align="center">
+
+<h1>🎀 Hello! 🎀</h1>
+
+<img src="https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif" width="180">
+
+<p>🦋 Welcome to my GitHub 🦋</p>
+
+</div>
+
 
 ## 🦋 About me
 
