@@ -1,33 +1,26 @@
 <h1 align="center">
-  Hola 👋, soy Lourdes 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4a7z/giphy.gif" width="35">
-</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQ5h6K6W3e/giphy.gif" width="180">
-  <br><br>
-  🦋 💗 🦋 💗 🦋
-</div>
-<div align="center">
-<h1>🎀 ¡Hola! 🎀</h1>
-<img src="https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif" width="180">
-<p>🦋 Bienvenidos a mi GitHub 🦋</p>
-</div>
-🦋 Sobre mí
+  Hi 👋, I'm Lourdes 
 
-Soy estudiante de Comunicación Multimedial interesada en la tecnología,
-el diseño y la creatividad. Tengo conocimientos de HTML, CSS y JavaScript,
-y disfruto aprender cosas nuevas y crear proyectos innovadores.
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Butterfly_o_Mariposa.gif" alt="Mariposa">
 
-*👀 Me interesa el Diseño Web y las Redes Sociales*
-• 💻 Actualmente estoy aprendiendo y mejorando mis habilidades en:
+## 🦋 About me
+
+I am a Communication Multinational student interested in technology,
+design and creativity. I have knowledge of HTML, CSS and JavaScript,
+and I enjoy learning new things and creating innovative projects.
+
+*👀 I am interested in Web Design and Social Media*
+
+•⁠  ⁠💻 I am currently learning and improving my skills in:
   - HTML
   - CSS
   - JavaScript
-    
-• 🎨 Me encanta diseñar para las redes sociales y crear contenido visual.
 
-• 🎭 Fuera de la tecnología, disfruto actuar y editar.
+•⁠  ⁠🎨 I love designing for social media and creating visual content.
 
-• 🦋 Me encantan las mariposas y todo lo relacionado con la creatividad y el diseño.
-• ✨ Siempre estoy buscando aprender algo nuevo,
-  desarrollar mis habilidades y crear nuevos proyectos.
+•⁠  ⁠🎭 Outside of technology, I enjoy acting and editing.
+
+•⁠  ⁠🦋 I love butterflies and everything related to creativity and design.
+
+•⁠  ⁠✨ I am always looking forward to learning something new,
+  developing my skills and creating new projects.
